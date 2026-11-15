@@ -1,2 +1,2 @@
 # Tronica-games
-Tiger LCD games
+Tronica LCD games
